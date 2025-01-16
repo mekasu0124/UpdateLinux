@@ -17,7 +17,8 @@
 
 #!/bin/bash
 
-read -p -s "Enter Your Password: " UserPassword
+echo -n "Enter Your Password: "
+read -s UserPassword
 
 echo "Starting Update... Please Wait..."
 
