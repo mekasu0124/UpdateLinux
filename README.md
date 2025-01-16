@@ -29,7 +29,7 @@ To use any of these <code>.sh</code> scripts on your linux machine:
    1. <code>cd Path/To/Where/You/Downloaded/update-linux.sh</code>
    2. <code>chmod +x update-linux.sh</code>
 3. Run the file
-   1. <code>sh ./update-linux.sh</code>
+   1. <code>bash ./update-linux.sh</code>
 4. Sit back and enjoy
    1. :P
 
